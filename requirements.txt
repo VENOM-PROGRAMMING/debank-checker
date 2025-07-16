@@ -1,0 +1,8 @@
+colorama==0.4.6
+fake_useragent==1.4.0
+httpx==0.28.1
+pandas_stubs==1.2.0.53
+Requests==2.32.4
+tls_client==1.0.1
+tqdm==4.67.1
+web3==7.10.0
